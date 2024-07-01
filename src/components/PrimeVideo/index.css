@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.main-container {
+  min-height: 100%;
+  width: 100%;
+  background-color: black;
+}
+.header {
+  width: 100%;
+}
+.banner {
+  width: 100%;
+}
+.movies-section {
+  padding: 20px;
+  color: white;
+}

@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.movie-image {
+  width: 100%;
+  cursor: pointer;
+}
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  padding-bottom: 20px;
+}
+.close-container {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
+.trigger-button {
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  font-size: 20px;
+  border: none;
+}
